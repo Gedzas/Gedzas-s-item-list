@@ -5713,18 +5713,6 @@
 		"defname": "ComputingSystemSW"
 	},
 	{
-		"abr": "corpselocker",
-		"price": 392,
-		"category": "Furniture",
-		"defname": "CCPSS_CorpseLocker"
-	},
-	{
-		"abr": "crate",
-		"price": 54,
-		"category": "Furniture",
-		"defname": "CCPSS_Crate"
-	},
-	{
 		"abr": "empgrenadelauncher",
 		"price": 833,
 		"category": "Ranged weapons",
@@ -5755,46 +5743,10 @@
 		"defname": "GlitterworldHospitalBedSW"
 	},
 	{
-		"abr": "heavydutyshelf",
-		"price": 158,
-		"category": "Furniture",
-		"defname": "CCPSS_HDShelf"
-	},
-	{
-		"abr": "largestrongbox",
-		"price": 210,
-		"category": "Furniture",
-		"defname": "CCPSS_LargeStrongbox"
-	},
-	{
 		"abr": "lazarusmechinjector",
 		"price": 583,
 		"category": "Items",
 		"defname": "LazarusMechInjectorSW"
-	},
-	{
-		"abr": "longheavydutyshelf",
-		"price": 194,
-		"category": "Furniture",
-		"defname": "CCPSS_HDLongShelf"
-	},
-	{
-		"abr": "longrack",
-		"price": 174,
-		"category": "Furniture",
-		"defname": "CCPSS_LongRack"
-	},
-	{
-		"abr": "longresourcerack",
-		"price": 295,
-		"category": "Furniture",
-		"defname": "CCPSS_LongResourceRack"
-	},
-	{
-		"abr": "longshelf",
-		"price": 157,
-		"category": "Furniture",
-		"defname": "CCPSS_LongShelf"
 	},
 	{
 		"abr": "maliciousaipersonacore",
@@ -5813,24 +5765,6 @@
 		"price": 1767,
 		"category": "Production",
 		"defname": "MechaniteAssemblySW"
-	},
-	{
-		"abr": "medicinecabinet",
-		"price": 174,
-		"category": "Furniture",
-		"defname": "CCPSS_MedicineCabinet"
-	},
-	{
-		"abr": "mediumshelf",
-		"price": 106,
-		"category": "Furniture",
-		"defname": "CCPSS_Shelf"
-	},
-	{
-		"abr": "nestingbox",
-		"price": 154,
-		"category": "Furniture",
-		"defname": "CCPSS_NestingBox"
 	},
 	{
 		"abr": "neutroglycerin",
@@ -5869,22 +5803,10 @@
 		"defname": "PsychicEngram"
 	},
 	{
-		"abr": "rack",
-		"price": 157,
-		"category": "Furniture",
-		"defname": "CCPSS_Rack"
-	},
-	{
 		"abr": "reconstructormechinjector",
 		"price": 667,
 		"category": "Items",
 		"defname": "ReconstructorMechSerumSW"
-	},
-	{
-		"abr": "resourcerack",
-		"price": 192,
-		"category": "Furniture",
-		"defname": "CCPSS_ResourceRack"
 	},
 	{
 		"abr": "rimworldglobe",
@@ -5903,12 +5825,6 @@
 		"price": 75,
 		"category": "Drugs",
 		"defname": "SireniumSW"
-	},
-	{
-		"abr": "strongbox",
-		"price": 176,
-		"category": "Furniture",
-		"defname": "CCPSS_Strongbox"
 	},
 	{
 		"abr": "walllight",
@@ -6113,7 +6029,55 @@
 		"price": 342,
 		"category": "Artificial",
 		"defname": "FSFSimpleProstheticStomach"
+	},
+	{
+		"abr": "clothingrack",
+		"price": 153,
+		"category": "Furniture",
+		"defname": "Storage_Locker"
+	},
+	{
+		"abr": "fabrichamper",
+		"price": 153,
+		"category": "Furniture",
+		"defname": "Storage_FabricHamper"
+	},
+	{
+		"abr": "foodbasket",
+		"price": 53,
+		"category": "Furniture",
+		"defname": "Storage_Basket"
+	},
+	{
+		"abr": "hazmatcontainer",
+		"price": 103,
+		"category": "Furniture",
+		"defname": "Storage_HazMatContainer"
+	},
+	{
+		"abr": "medicinecabinet",
+		"price": 153,
+		"category": "Furniture",
+		"defname": "Storage_MedicineCabinet"
+	},
+	{
+		"abr": "pallet",
+		"price": 255,
+		"category": "Furniture",
+		"defname": "Storage_WoodenPallet"
+	},
+	{
+		"abr": "skip",
+		"price": 305,
+		"category": "Furniture",
+		"defname": "Storage_Skip"
+	},
+	{
+		"abr": "trayrack",
+		"price": 153,
+		"category": "Furniture",
+		"defname": "Storage_TrayRack"
 	}
 	],
-	"total": 1122
+	"total": 1144
 }
