@@ -4135,150 +4135,6 @@
 		"defname": "ACPEggxenguanaFertilized"
 	},
 	{
-		"abr": "advancedmechanoidchip",
-		"price": 92,
-		"category": "Manufactured",
-		"defname": "WTH_MechanoidChip"
-	},
-	{
-		"abr": "armormodule",
-		"price": 1483,
-		"category": "Manufactured",
-		"defname": "WTH_ArmorModule"
-	},
-	{
-		"abr": "batteryexpansionmodule",
-		"price": 1183,
-		"category": "Manufactured",
-		"defname": "WTH_BatteryExpansionModule"
-	},
-	{
-		"abr": "beltmodule",
-		"price": 1175,
-		"category": "Manufactured",
-		"defname": "WTH_BeltModule"
-	},
-	{
-		"abr": "cargomodule",
-		"price": 950,
-		"category": "Manufactured",
-		"defname": "WTH_CargoModule"
-	},
-	{
-		"abr": "cleaningmodule",
-		"price": 1042,
-		"category": "Manufactured",
-		"defname": "WTH_CleaningModule"
-	},
-	{
-		"abr": "extractedbraindata",
-		"price": 58,
-		"category": "Manufactured",
-		"defname": "WTH_ExtractedBrainData"
-	},
-	{
-		"abr": "firefightingmodule",
-		"price": 842,
-		"category": "Manufactured",
-		"defname": "WTH_FirefightingModule"
-	},
-	{
-		"abr": "giddy-up!module",
-		"price": 1125,
-		"category": "Manufactured",
-		"defname": "GU_Mech_GiddyUpModule"
-	},
-	{
-		"abr": "growingmodule",
-		"price": 1400,
-		"category": "Manufactured",
-		"defname": "WTH_GrowingModule"
-	},
-	{
-		"abr": "haulingmodule",
-		"price": 1525,
-		"category": "Manufactured",
-		"defname": "WTH_HaulingModule"
-	},
-	{
-		"abr": "hivedata",
-		"price": 58,
-		"category": "Manufactured",
-		"defname": "WTH_MechanoidData"
-	},
-	{
-		"abr": "mechanoidcontrollerbelt",
-		"price": 1242,
-		"category": "Apparel",
-		"defname": "WTH_Apparel_MechControllerBelt"
-	},
-	{
-		"abr": "mechanoidworkshop",
-		"price": 1917,
-		"category": "Production",
-		"defname": "WTH_TableMechanoidWorkshop"
-	},
-	{
-		"abr": "opticsensormodule",
-		"price": 767,
-		"category": "Manufactured",
-		"defname": "WTH_OpticSensorModule"
-	},
-	{
-		"abr": "overdrivemodule",
-		"price": 767,
-		"category": "Manufactured",
-		"defname": "WTH_OverdriveModule"
-	},
-	{
-		"abr": "portablechargingplatform",
-		"price": 658,
-		"category": "Furniture",
-		"defname": "WTH_PortableChargingPlatform"
-	},
-	{
-		"abr": "portabledisassemblingbench",
-		"price": 967,
-		"category": "Furniture",
-		"defname": "WTH_PortableDisassemblingBench"
-	},
-	{
-		"abr": "repairarm",
-		"price": 725,
-		"category": "Manufactured",
-		"defname": "WTH_RepairArm"
-	},
-	{
-		"abr": "repairmodule",
-		"price": 1158,
-		"category": "Manufactured",
-		"defname": "WTH_RepairModule"
-	},
-	{
-		"abr": "selfdestructmodule",
-		"price": 417,
-		"category": "Manufactured",
-		"defname": "WTH_SelfDestructModule"
-	},
-	{
-		"abr": "speedmodule",
-		"price": 750,
-		"category": "Manufactured",
-		"defname": "WTH_SpeedModule"
-	},
-	{
-		"abr": "turretmodule",
-		"price": 1500,
-		"category": "Manufactured",
-		"defname": "WTH_TurretModule"
-	},
-	{
-		"abr": "vanometricpowercellmodule",
-		"price": 2875,
-		"category": "Manufactured",
-		"defname": "WTH_VanometricModule"
-	},
-	{
 		"abr": "largecommonchest",
 		"price": 650,
 		"category": "Loot boxes",
@@ -4319,7 +4175,43 @@
 		"price": -10,
 		"category": "Loot boxes",
 		"defname": "LootBoxTreasure"
+	},
+	{
+		"abr": "guestbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "BedGuest"
+	},
+	{
+		"abr": "guestbedroll",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "BedrollGuest"
+	},
+	{
+		"abr": "guestdoublebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "DoubleBedGuest"
+	},
+	{
+		"abr": "guestdoublebedroll",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "BedrollDoubleGuest"
+	},
+	{
+		"abr": "guesthospitalbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "HospitalBedGuest"
+	},
+	{
+		"abr": "guestroyalbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RoyalBedGuest"
 	}
 	],
-	"total": 1634
+	"total": 1646
 }
