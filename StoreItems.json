@@ -175,12 +175,6 @@
 		"defname": "Leather_Dog"
 	},
 	{
-		"abr": "squirrelmeat",
-		"price": 3,
-		"category": "",
-		"defname": "Meat_Squirrel"
-	},
-	{
 		"abr": "lizardskin",
 		"price": 3,
 		"category": "Leathers",
