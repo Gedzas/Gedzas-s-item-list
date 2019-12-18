@@ -428,7 +428,7 @@
 	},
 	{
 		"abr": "emuegg(fert.)",
-		"price": -10,
+		"price": 30,
 		"category": "Eggs (fert.)",
 		"defname": "EggEmuFertilized"
 	},
@@ -2198,7 +2198,7 @@
 	},
 	{
 		"abr": "ancientmail",
-		"price": -10,
+		"price": 3583,
 		"category": "Magic equipment",
 		"defname": "AncientMail"
 	},
@@ -2216,55 +2216,55 @@
 	},
 	{
 		"abr": "arcanegemofacceleration",
-		"price": -10,
+		"price": 650,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_coolDown"
 	},
 	{
 		"abr": "arcanegemofconservation",
-		"price": -10,
+		"price": 650,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_mpCost"
 	},
 	{
 		"abr": "arcanegemofforce",
-		"price": -10,
+		"price": 650,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_arcaneDmg"
 	},
 	{
 		"abr": "arcanegemofholding",
-		"price": -10,
+		"price": 650,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_maxMP"
 	},
 	{
 		"abr": "arcanegemoflearning",
-		"price": -10,
+		"price": 650,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_xpGain"
 	},
 	{
 		"abr": "arcanegemofregeneration",
-		"price": -10,
+		"price": 650,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_mpRegenRate"
 	},
 	{
 		"abr": "arcanegemofresistance",
-		"price": -10,
+		"price": 650,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_arcaneRes"
 	},
 	{
 		"abr": "arcanegemofwonder",
-		"price": -10,
+		"price": 4417,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_wonder"
 	},
 	{
 		"abr": "arcanehood",
-		"price": -10,
+		"price": 1208,
 		"category": "Magic equipment",
 		"defname": "ArcaneHood"
 	},
@@ -2276,7 +2276,7 @@
 	},
 	{
 		"abr": "arcanespell:gateway",
-		"price": -10,
+		"price": 4767,
 		"category": "Scrolls",
 		"defname": "SpellOf_FoldReality"
 	},
@@ -2378,7 +2378,7 @@
 	},
 	{
 		"abr": "armorofthevaliant",
-		"price": -10,
+		"price": 4000,
 		"category": "Magic equipment",
 		"defname": "RoyalArmor"
 	},
@@ -2396,7 +2396,7 @@
 	},
 	{
 		"abr": "bardspell:battlehymn",
-		"price": -10,
+		"price": 2750,
 		"category": "Scrolls",
 		"defname": "SpellOf_BattleHymn"
 	},
@@ -2420,7 +2420,7 @@
 	},
 	{
 		"abr": "bloodmagespell:bloodmoon",
-		"price": -10,
+		"price": 3750,
 		"category": "Scrolls",
 		"defname": "SpellOf_BloodMoon"
 	},
@@ -2474,13 +2474,13 @@
 	},
 	{
 		"abr": "chronomancerspell:recall",
-		"price": -10,
+		"price": 3333,
 		"category": "Scrolls",
 		"defname": "SpellOf_Recall"
 	},
 	{
 		"abr": "cloakofsupremacy",
-		"price": -10,
+		"price": 7433,
 		"category": "Magic equipment",
 		"defname": "DemonLordCloak"
 	},
@@ -2552,7 +2552,7 @@
 	},
 	{
 		"abr": "darkrobe",
-		"price": -10,
+		"price": 4167,
 		"category": "Magic equipment",
 		"defname": "DarkRobe"
 	},
@@ -2612,43 +2612,43 @@
 	},
 	{
 		"abr": "druidspell:briarpatch",
-		"price": -10,
+		"price": 950,
 		"category": "Scrolls",
 		"defname": "SpellOf_BriarPatch"
 	},
 	{
 		"abr": "druidspell:fertilelands",
-		"price": -10,
+		"price": 1233,
 		"category": "Scrolls",
 		"defname": "SpellOf_FertileLands"
 	},
 	{
 		"abr": "druidspell:regrowlimb",
-		"price": -10,
+		"price": 3100,
 		"category": "Scrolls",
 		"defname": "SpellOf_RegrowLimb"
 	},
 	{
 		"abr": "elephantbow",
-		"price": -10,
+		"price": 2083,
 		"category": "Ranged weapons",
 		"defname": "TM_ElephantBow"
 	},
 	{
 		"abr": "elephantspear",
-		"price": -10,
+		"price": 1333,
 		"category": "Melee weapons",
 		"defname": "TM_ElephantSpear"
 	},
 	{
 		"abr": "enchanterspell:blankmind",
-		"price": -10,
+		"price": 1367,
 		"category": "Scrolls",
 		"defname": "SpellOf_BlankMind"
 	},
 	{
 		"abr": "enchanterspell:shapeshift",
-		"price": -10,
+		"price": 3333,
 		"category": "Scrolls",
 		"defname": "SpellOf_Shapeshift"
 	},
@@ -2660,91 +2660,91 @@
 	},
 	{
 		"abr": "fighterskill:burningfury",
-		"price": -10,
+		"price": 1583,
 		"category": "Scrolls",
 		"defname": "SkillOf_BurningFury"
 	},
 	{
 		"abr": "fighterskill:fightersfocus",
-		"price": -10,
+		"price": 1333,
 		"category": "Scrolls",
 		"defname": "SkillOf_FightersFocus"
 	},
 	{
 		"abr": "fighterskill:gearrepair",
-		"price": -10,
+		"price": 1167,
 		"category": "Scrolls",
 		"defname": "SkillOf_GearRepair"
 	},
 	{
 		"abr": "fighterskill:heavyblow",
-		"price": -10,
+		"price": 1250,
 		"category": "Scrolls",
 		"defname": "SkillOf_HeavyBlow"
 	},
 	{
 		"abr": "fighterskill:innerhealing",
-		"price": -10,
+		"price": 833,
 		"category": "Scrolls",
 		"defname": "SkillOf_InnerHealing"
 	},
 	{
 		"abr": "fighterskill:legion",
-		"price": -10,
+		"price": 1333,
 		"category": "Scrolls",
 		"defname": "SkillOf_Legion"
 	},
 	{
 		"abr": "fighterskill:pommelstrike",
-		"price": -10,
+		"price": 1667,
 		"category": "Scrolls",
 		"defname": "SkillOf_PommelStrike"
 	},
 	{
 		"abr": "fighterskill:sprint",
-		"price": -10,
+		"price": 833,
 		"category": "Scrolls",
 		"defname": "SkillOf_Sprint"
 	},
 	{
 		"abr": "fighterskill:strongback",
-		"price": -10,
+		"price": 1000,
 		"category": "Scrolls",
 		"defname": "SkillOf_StrongBack"
 	},
 	{
 		"abr": "fighterskill:tempeststrike",
-		"price": -10,
+		"price": 1000,
 		"category": "Scrolls",
 		"defname": "SkillOf_TempestStrike"
 	},
 	{
 		"abr": "fighterskill:thickskin",
-		"price": -10,
+		"price": 667,
 		"category": "Scrolls",
 		"defname": "SkillOf_ThickSkin"
 	},
 	{
 		"abr": "fighterskill:throwingknife",
-		"price": -10,
+		"price": 1583,
 		"category": "Scrolls",
 		"defname": "SkillOf_ThrowingKnife"
 	},
 	{
 		"abr": "firespell:cauterizewound",
-		"price": -10,
+		"price": 533,
 		"category": "Scrolls",
 		"defname": "SpellOf_CauterizeWound"
 	},
 	{
 		"abr": "firespell:dryground",
-		"price": -10,
+		"price": 900,
 		"category": "Scrolls",
 		"defname": "SpellOf_DryGround"
 	},
 	{
 		"abr": "firespell:firestorm",
-		"price": -10,
+		"price": 3583,
 		"category": "Scrolls",
 		"defname": "SpellOf_Firestorm"
 	},
@@ -2768,19 +2768,19 @@
 	},
 	{
 		"abr": "gemofarcaneinsight",
-		"price": -10,
+		"price": 5000,
 		"category": "Magic artifacts",
 		"defname": "GemstoneOfInsight_Magic"
 	},
 	{
 		"abr": "gemofphysicalinsight",
-		"price": -10,
+		"price": 4000,
 		"category": "Magic artifacts",
 		"defname": "GemstoneOfInsight_Might"
 	},
 	{
 		"abr": "geomancerspell:meteor",
-		"price": -10,
+		"price": 2750,
 		"category": "Scrolls",
 		"defname": "SpellOf_Meteor"
 	},
@@ -2810,25 +2810,25 @@
 	},
 	{
 		"abr": "helmofthevaliant",
-		"price": -10,
+		"price": 1767,
 		"category": "Magic equipment",
 		"defname": "RoyalHelm"
 	},
 	{
 		"abr": "hoodofmadness",
-		"price": -10,
+		"price": 2100,
 		"category": "Magic equipment",
 		"defname": "HoodOfMadness"
 	},
 	{
 		"abr": "icespell:blizzard",
-		"price": -10,
+		"price": 3583,
 		"category": "Scrolls",
 		"defname": "SpellOf_Blizzard"
 	},
 	{
 		"abr": "icespell:moisturizeground",
-		"price": -10,
+		"price": 900,
 		"category": "Scrolls",
 		"defname": "SpellOf_WetGround"
 	},
@@ -2876,193 +2876,193 @@
 	},
 	{
 		"abr": "lightningspell:chargebattery",
-		"price": -10,
+		"price": 833,
 		"category": "Scrolls",
 		"defname": "SpellOf_ChargeBattery"
 	},
 	{
 		"abr": "lightningspell:eyeofthestorm",
-		"price": -10,
+		"price": 3583,
 		"category": "Scrolls",
 		"defname": "SpellOf_EyeOfTheStorm"
 	},
 	{
 		"abr": "magespell:arcanebolt",
-		"price": -10,
+		"price": 950,
 		"category": "Scrolls",
 		"defname": "SpellOf_ArcaneBolt"
 	},
 	{
 		"abr": "magespell:blink",
-		"price": -10,
+		"price": 833,
 		"category": "Scrolls",
 		"defname": "SpellOf_Blink"
 	},
 	{
 		"abr": "magespell:blur",
-		"price": -10,
+		"price": 967,
 		"category": "Scrolls",
 		"defname": "SpellOf_Blur"
 	},
 	{
 		"abr": "magespell:dirtdevil",
-		"price": -10,
+		"price": 967,
 		"category": "Scrolls",
 		"defname": "SpellOf_DirtDevil"
 	},
 	{
 		"abr": "magespell:dispelheat",
-		"price": -10,
+		"price": 633,
 		"category": "Scrolls",
 		"defname": "SpellOf_Cooler"
 	},
 	{
 		"abr": "magespell:drawheat",
-		"price": -10,
+		"price": 633,
 		"category": "Scrolls",
 		"defname": "SpellOf_Heater"
 	},
 	{
 		"abr": "magespell:emp",
-		"price": -10,
+		"price": 967,
 		"category": "Scrolls",
 		"defname": "SpellOf_EMP"
 	},
 	{
 		"abr": "magespell:extinguish",
-		"price": -10,
+		"price": 567,
 		"category": "Scrolls",
 		"defname": "SpellOf_Extinguish"
 	},
 	{
 		"abr": "magespell:heal",
-		"price": -10,
+		"price": 767,
 		"category": "Scrolls",
 		"defname": "SpellOf_Heal"
 	},
 	{
 		"abr": "magespell:invisibility",
-		"price": -10,
+		"price": 2000,
 		"category": "Scrolls",
 		"defname": "SpellOf_Invisibility"
 	},
 	{
 		"abr": "magespell:lightningtrap",
-		"price": -10,
+		"price": 2000,
 		"category": "Scrolls",
 		"defname": "SpellOf_LightningTrap"
 	},
 	{
 		"abr": "magespell:magelight",
-		"price": -10,
+		"price": 633,
 		"category": "Scrolls",
 		"defname": "SpellOf_MageLight"
 	},
 	{
 		"abr": "magespell:manashield",
-		"price": -10,
+		"price": 1600,
 		"category": "Scrolls",
 		"defname": "SpellOf_ManaShield"
 	},
 	{
 		"abr": "magespell:powernode",
-		"price": -10,
+		"price": 1017,
 		"category": "Scrolls",
 		"defname": "SpellOf_PowerNode"
 	},
 	{
 		"abr": "magespell:rain",
-		"price": -10,
+		"price": 433,
 		"category": "Scrolls",
 		"defname": "SpellOf_Rain"
 	},
 	{
 		"abr": "magespell:siphonmana",
-		"price": -10,
+		"price": 1267,
 		"category": "Scrolls",
 		"defname": "SpellOf_SiphonMana"
 	},
 	{
 		"abr": "magespell:smokecloud",
-		"price": -10,
+		"price": 700,
 		"category": "Scrolls",
 		"defname": "SpellOf_SmokeCloud"
 	},
 	{
 		"abr": "magespell:spellmending",
-		"price": -10,
+		"price": 1792,
 		"category": "Scrolls",
 		"defname": "SpellOf_SpellMending"
 	},
 	{
 		"abr": "magespell:summonminion",
-		"price": -10,
+		"price": 1750,
 		"category": "Scrolls",
 		"defname": "SpellOf_SummonMinion"
 	},
 	{
 		"abr": "magespell:sunlight",
-		"price": -10,
+		"price": 1117,
 		"category": "Scrolls",
 		"defname": "SpellOf_Sunlight"
 	},
 	{
 		"abr": "magespell:teleport",
-		"price": -10,
+		"price": 2200,
 		"category": "Scrolls",
 		"defname": "SpellOf_Teleport"
 	},
 	{
 		"abr": "magespell:transfermana",
-		"price": -10,
+		"price": 1267,
 		"category": "Scrolls",
 		"defname": "SpellOf_TransferMana"
 	},
 	{
 		"abr": "majorarcanegemofacceleration",
-		"price": -10,
+		"price": 1592,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_coolDown_major"
 	},
 	{
 		"abr": "majorarcanegemofconservation",
-		"price": -10,
+		"price": 1592,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_mpCost_major"
 	},
 	{
 		"abr": "majorarcanegemofforce",
-		"price": -10,
+		"price": 1592,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_arcaneDmg_major"
 	},
 	{
 		"abr": "majorarcanegemofholding",
-		"price": -10,
+		"price": 1592,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_maxMP_major"
 	},
 	{
 		"abr": "majorarcanegemoflearning",
-		"price": -10,
+		"price": 1592,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_xpGain_major"
 	},
 	{
 		"abr": "majorarcanegemofregeneration",
-		"price": -10,
+		"price": 1592,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_mpRegenRate_major"
 	},
 	{
 		"abr": "majorarcanegemofresistance",
-		"price": -10,
+		"price": 1592,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_arcaneRes_major"
 	},
 	{
 		"abr": "majorarcanegemofwonder",
-		"price": -10,
+		"price": 10917,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_wonder_major"
 	},
@@ -3086,49 +3086,49 @@
 	},
 	{
 		"abr": "minorarcanegemofacceleration",
-		"price": -10,
+		"price": 283,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_coolDown_minor"
 	},
 	{
 		"abr": "minorarcanegemofconservation",
-		"price": -10,
+		"price": 283,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_mpCost_minor"
 	},
 	{
 		"abr": "minorarcanegemofforce",
-		"price": -10,
+		"price": 283,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_arcaneDmg_minor"
 	},
 	{
 		"abr": "minorarcanegemofholding",
-		"price": -10,
+		"price": 283,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_maxMP_minor"
 	},
 	{
 		"abr": "minorarcanegemoflearning",
-		"price": -10,
+		"price": 283,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_xpGain_minor"
 	},
 	{
 		"abr": "minorarcanegemofregeneration",
-		"price": -10,
+		"price": 283,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_mpRegenRate_minor"
 	},
 	{
 		"abr": "minorarcanegemofresistance",
-		"price": -10,
+		"price": 283,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_arcaneRes_minor"
 	},
 	{
 		"abr": "minorarcanegemofwonder",
-		"price": -10,
+		"price": 1983,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_wonder_minor"
 	},
@@ -3140,7 +3140,7 @@
 	},
 	{
 		"abr": "necromancerspell:lichform",
-		"price": -10,
+		"price": 4292,
 		"category": "Scrolls",
 		"defname": "SpellOf_LichForm"
 	},
@@ -3188,13 +3188,13 @@
 	},
 	{
 		"abr": "paladinspell:holywrath",
-		"price": -10,
+		"price": 3167,
 		"category": "Scrolls",
 		"defname": "SpellOf_HolyWrath"
 	},
 	{
 		"abr": "paragon'shelm",
-		"price": -10,
+		"price": 3167,
 		"category": "Magic equipment",
 		"defname": "ParagonHelm"
 	},
@@ -3236,7 +3236,7 @@
 	},
 	{
 		"abr": "priestspell:resurrection",
-		"price": -10,
+		"price": 6250,
 		"category": "Scrolls",
 		"defname": "SpellOf_Resurrection"
 	},
@@ -3272,13 +3272,13 @@
 	},
 	{
 		"abr": "robesofthearchmage",
-		"price": -10,
+		"price": 10417,
 		"category": "Magic equipment",
 		"defname": "ArchMageRobe"
 	},
 	{
 		"abr": "seedofregrowth",
-		"price": -10,
+		"price": 2,
 		"category": "Magic Items",
 		"defname": "SeedofRegrowth"
 	},
@@ -3320,13 +3320,13 @@
 	},
 	{
 		"abr": "succubusspell:scorn",
-		"price": -10,
+		"price": 2750,
 		"category": "Scrolls",
 		"defname": "SpellOf_Scorn"
 	},
 	{
 		"abr": "summonerspell:summonpoppi",
-		"price": -10,
+		"price": 3767,
 		"category": "Scrolls",
 		"defname": "SpellOf_SummonPoppi"
 	},
@@ -3344,31 +3344,31 @@
 	},
 	{
 		"abr": "technomancerspell:kineticshield",
-		"price": -10,
+		"price": 833,
 		"category": "Scrolls",
 		"defname": "SpellOf_TechnoShield"
 	},
 	{
 		"abr": "technomancerspell:mechanitereprogramming",
-		"price": -10,
+		"price": 1417,
 		"category": "Scrolls",
 		"defname": "SpellOf_MechaniteReprogramming"
 	},
 	{
 		"abr": "technomancerspell:orbitalstrike",
-		"price": -10,
+		"price": 2833,
 		"category": "Scrolls",
 		"defname": "SpellOf_OrbitalStrike"
 	},
 	{
 		"abr": "technomancerspell:overdrive",
-		"price": -10,
+		"price": 800,
 		"category": "Scrolls",
 		"defname": "SpellOf_Overdrive"
 	},
 	{
 		"abr": "technomancerspell:sabotage",
-		"price": -10,
+		"price": 667,
 		"category": "Scrolls",
 		"defname": "SpellOf_Sabotage"
 	},
@@ -3542,13 +3542,13 @@
 	},
 	{
 		"abr": "wanderer'scloak",
-		"price": -10,
+		"price": 1958,
 		"category": "Magic equipment",
 		"defname": "TM_MaestersCloak"
 	},
 	{
 		"abr": "warlockspell:psychicshock",
-		"price": -10,
+		"price": 3000,
 		"category": "Scrolls",
 		"defname": "SpellOf_PsychicShock"
 	},
@@ -4175,43 +4175,7 @@
 		"price": -10,
 		"category": "Loot boxes",
 		"defname": "LootBoxTreasure"
-	},
-	{
-		"abr": "guestbed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "BedGuest"
-	},
-	{
-		"abr": "guestbedroll",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "BedrollGuest"
-	},
-	{
-		"abr": "guestdoublebed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "DoubleBedGuest"
-	},
-	{
-		"abr": "guestdoublebedroll",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "BedrollDoubleGuest"
-	},
-	{
-		"abr": "guesthospitalbed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "HospitalBedGuest"
-	},
-	{
-		"abr": "guestroyalbed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "RoyalBedGuest"
 	}
 	],
-	"total": 1646
+	"total": 1658
 }
